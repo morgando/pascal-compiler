@@ -1,0 +1,8 @@
+x:=10;
+WHILE x>5 DO
+BEGIN
+x:=x-1;
+END;
+WRITELN(x);
+WRITELN(10);
+
